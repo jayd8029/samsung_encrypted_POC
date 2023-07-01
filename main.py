@@ -14,7 +14,7 @@ external_server = 'https://34.210.190.209:5443'
 external_headers = {'Authorization': 'Basic b3JjaGVzdHJhdG9yOnBhc3N3b3Jk', 'Content-Type': 'application/json', 'User-Agent': 'Remotie%202/1 CFNetwork/893.7 Darwin/17.3.0'}
 
 #Change here
-tv_address = '10.0.0.46'
+tv_address = '192.168.0.230'
 
 
 ### STEP 0 START
